@@ -43,6 +43,7 @@ Conditional columns were added to filter down some data so as to get a better vi
 
 DATA VISUALIZATION  
 
+![Uploading WhatsApp Image 2024-11-07 at 15.33.04_dc311da1.jpg…]()
 
 
 
