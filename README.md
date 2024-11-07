@@ -41,9 +41,10 @@ Here some lines of codes or queries or even some of the DAX expressions were use
 Attrition Rate = sum(sales Data attrition count)/sum(sales Data employee count) 
 Conditional columns were added to filter down some data so as to get a better visualization, one of those is the creation of conditional column to convert the Job Satisfaction column to Job Satisfaction Rating using figures 1,2,3,4 to represent each satisfactory level.
 
-DATA VISUALIZATION  
+DATA VISUALIZATION ![Uploading image.png…]()
+ 
 
-![Uploading WhatsApp Image 2024-11-07 at 15.33.04_dc311da1.jpg…]()
+
 
 
 
