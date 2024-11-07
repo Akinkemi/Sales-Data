@@ -12,6 +12,8 @@ Exploratory Data Analysis
 
 [Data Analysis](data-analysis)
 DATA VISUALIZATION
+![sales image](https://github.com/user-attachments/assets/21439c83-1aea-45cb-8530-6c9342899328)
+
 
 ## PROJECT OVERVIEW
 This project analyses sales data to identity trends, patterns, and insights, informing businesss decisions and optimizing sales strategies.
@@ -57,3 +59,4 @@ This comprehensive sales data analysis has provided valuable insights into sales
 
 RECOMENDATION                                                                                                                           
 -To drive revenue growth and customer engagement, consider expanding product offerings in top-selling categories, increasing marketing efforts in high-sales regions, and implementing loyalty programs to retain top customers. Additionally, optimize operational efficiency by streamlining inventory management and supply chain logistics, and explore new markets with similar customer demographics to further expand the business.. 
+ 
